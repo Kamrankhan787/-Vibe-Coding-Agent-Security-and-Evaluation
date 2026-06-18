@@ -1,0 +1,14 @@
+{
+    "metrics": {
+        "total_tested": 20,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "approval_accuracy": "100.0%",
+        "security_detection_rate": "100.0%"
+    },
+    "scores": {
+        "Accuracy Score": 100.0,
+        "Security Score": 100.0,
+        "Overall Trust Score": 100.0
+    }
+}

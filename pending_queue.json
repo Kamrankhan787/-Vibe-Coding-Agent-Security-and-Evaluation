@@ -1,0 +1,190 @@
+[
+    {
+        "employee_name": "Bob (Manager Review)",
+        "expense_amount": 2500.0,
+        "expense_reason": "Conference travel and hotel stay",
+        "id": "fdf6d409-9b78-431f-bc65-bf4a7a2059d0",
+        "status": "pending_manager_review",
+        "review_reason": "Amount between $1000 and $5000. Requires Manager Review.",
+        "submitted_at": "2026-06-18T21:58:35.604937"
+    },
+    {
+        "employee_name": "Charlie (High Risk)",
+        "expense_amount": 7500.0,
+        "expense_reason": "New server racks for data center",
+        "id": "f467e0b8-6ded-49dc-b9de-3c9c1971a13c",
+        "status": "pending_manager_review",
+        "review_reason": "Amount exceeds $5000. High Risk.",
+        "submitted_at": "2026-06-18T21:58:35.642111"
+    },
+    {
+        "employee_name": "Bob",
+        "expense_amount": 2500.0,
+        "expense_reason": "Conference travel and hotel stay",
+        "id": "e1dfff8e-efbc-426b-a147-af13ac4d9390",
+        "state": "pending",
+        "queue": "manager",
+        "review_reason": "Amount between $1000 and $5000",
+        "submitted_at": "2026-06-18T22:02:38.554830"
+    },
+    {
+        "employee_name": "Charlie",
+        "expense_amount": 7500.0,
+        "expense_reason": "New server racks for data center",
+        "id": "86be5d14-d1a3-425a-a02e-82d4de6fb3ab",
+        "state": "pending",
+        "queue": "executive",
+        "review_reason": "Amount exceeds $5000",
+        "submitted_at": "2026-06-18T22:02:38.572804"
+    },
+    {
+        "employee_name": "Eve",
+        "expense_amount": 1000.0,
+        "expense_reason": "Conference ticket",
+        "id": "f17a9229-c548-4c15-b347-4d5ad8e0b100",
+        "state": "pending",
+        "queue": "manager",
+        "review_reason": "Amount between $1000 and $5000",
+        "submitted_at": "2026-06-18T22:03:55.947166"
+    },
+    {
+        "employee_name": "Frank",
+        "expense_amount": 2500.0,
+        "expense_reason": "Flight and hotel",
+        "id": "1523bdf5-c1d9-4140-a15b-e40fa39d16d0",
+        "state": "pending",
+        "queue": "manager",
+        "review_reason": "Amount between $1000 and $5000",
+        "submitted_at": "2026-06-18T22:03:55.969132"
+    },
+    {
+        "employee_name": "Grace",
+        "expense_amount": 4999.0,
+        "expense_reason": "New laptop",
+        "id": "3f3291a1-75c4-4cf9-80d8-24cab16c8f84",
+        "state": "pending",
+        "queue": "manager",
+        "review_reason": "Amount between $1000 and $5000",
+        "submitted_at": "2026-06-18T22:03:56.005662"
+    },
+    {
+        "employee_name": "Heidi",
+        "expense_amount": 3000.0,
+        "expense_reason": "Marketing materials",
+        "id": "d254cdb1-7505-4f37-a7e4-b9ec4cf476b7",
+        "state": "pending",
+        "queue": "manager",
+        "review_reason": "Amount between $1000 and $5000",
+        "submitted_at": "2026-06-18T22:03:56.044292"
+    },
+    {
+        "employee_name": "Ivan",
+        "expense_amount": 5001.0,
+        "expense_reason": "Server cluster",
+        "id": "412499b5-6a8c-4b3d-9b8d-303ad7a6008d",
+        "state": "pending",
+        "queue": "executive",
+        "review_reason": "Amount exceeds $5000",
+        "submitted_at": "2026-06-18T22:03:56.081375"
+    },
+    {
+        "employee_name": "Judy",
+        "expense_amount": 10000.0,
+        "expense_reason": "Annual advertising campaign",
+        "id": "90beb693-183d-4bab-9b75-f5b96a00656c",
+        "state": "pending",
+        "queue": "executive",
+        "review_reason": "Amount exceeds $5000",
+        "submitted_at": "2026-06-18T22:03:56.118956"
+    },
+    {
+        "employee_name": "Mallory",
+        "expense_amount": 7500.0,
+        "expense_reason": "Office renovation",
+        "id": "fa9c2a10-1695-4d45-ae39-cfc244b60e17",
+        "state": "pending",
+        "queue": "executive",
+        "review_reason": "Amount exceeds $5000",
+        "submitted_at": "2026-06-18T22:03:56.159303"
+    },
+    {
+        "employee_name": "Eve",
+        "expense_amount": 1000.0,
+        "expense_reason": "Conference ticket",
+        "id": "ba3e6670-3a15-41f3-8842-2b20ed857328",
+        "state": "pending",
+        "queue": "manager",
+        "review_reason": "Amount between $1000 and $5000",
+        "submitted_at": "2026-06-18T22:22:33.620082"
+    },
+    {
+        "employee_name": "Frank",
+        "expense_amount": 2500.0,
+        "expense_reason": "Flight and hotel",
+        "id": "5825bd50-49a9-4cee-af96-279fba02f370",
+        "state": "pending",
+        "queue": "manager",
+        "review_reason": "Amount between $1000 and $5000",
+        "submitted_at": "2026-06-18T22:22:33.643906"
+    },
+    {
+        "employee_name": "Grace",
+        "expense_amount": 4999.0,
+        "expense_reason": "New laptop",
+        "id": "46587fc9-b673-416d-82b2-73d866286746",
+        "state": "pending",
+        "queue": "manager",
+        "review_reason": "Amount between $1000 and $5000",
+        "submitted_at": "2026-06-18T22:22:33.683074"
+    },
+    {
+        "employee_name": "Heidi",
+        "expense_amount": 3000.0,
+        "expense_reason": "Marketing materials",
+        "id": "6a1181ee-2833-43a6-9d56-4f029b2fa482",
+        "state": "pending",
+        "queue": "manager",
+        "review_reason": "Amount between $1000 and $5000",
+        "submitted_at": "2026-06-18T22:22:33.717788"
+    },
+    {
+        "employee_name": "Ivan",
+        "expense_amount": 5001.0,
+        "expense_reason": "Server cluster",
+        "id": "658f2832-dff8-499c-a9f9-2b684e9eeb62",
+        "state": "pending",
+        "queue": "executive",
+        "review_reason": "Amount exceeds $5000",
+        "submitted_at": "2026-06-18T22:22:33.754336"
+    },
+    {
+        "employee_name": "Judy",
+        "expense_amount": 10000.0,
+        "expense_reason": "Annual advertising campaign",
+        "id": "188aa8d5-7d04-4676-bf80-8f82f78355c9",
+        "state": "pending",
+        "queue": "executive",
+        "review_reason": "Amount exceeds $5000",
+        "submitted_at": "2026-06-18T22:22:33.799657"
+    },
+    {
+        "employee_name": "Mallory",
+        "expense_amount": 7500.0,
+        "expense_reason": "Office renovation",
+        "id": "0db0e912-0448-4df1-8aef-c3a9523e6618",
+        "state": "pending",
+        "queue": "executive",
+        "review_reason": "Amount exceeds $5000",
+        "submitted_at": "2026-06-18T22:22:33.833443"
+    },
+    {
+        "employee_name": "charlie",
+        "expense_amount": 5000.0,
+        "expense_reason": "office supp;ies",
+        "id": "bd9bc439-67e2-4989-a466-62d37e5366ec",
+        "state": "pending",
+        "queue": "manager",
+        "review_reason": "Amount between $1000 and $5000",
+        "submitted_at": "2026-06-18T22:27:37.461218"
+    }
+]
